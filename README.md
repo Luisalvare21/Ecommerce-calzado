@@ -28,5 +28,5 @@ La prueba tiene una duración de 3 a 4 días para su entrega final.
 
 ## Categoría
 
-<img src="categoría.png">   
+<img src="categoria.png">   
 
